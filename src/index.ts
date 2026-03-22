@@ -1,1 +1,0 @@
-console.log("Soccer simulator is starting!");
